@@ -1,7 +1,7 @@
 # Kotlin-DS-Algo-Sem-3
 This repo contains my Data Structures Lab work 
 
-## 📂Data Structures (`datastructure`)
+## 📂Data Structures (`dataStructure`)
 These are the Data Structures implemented in the directory
 - Linked List
 - Circular Linked List
